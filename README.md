@@ -3,6 +3,6 @@ We present a novel multifactorial algorithm, referred as Independent Multifactor
 
 ---
 
-Last Update: 2017-11-20
+Last Update: 2018-11-02
 
 Maintainer: N. Vilor-Tejedor <nt.vilor@gmail.com>
