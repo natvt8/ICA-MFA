@@ -1,4 +1,4 @@
-# Calculating contributions from IMFA-ICR
+# Calculating contributions from ICA-MFA
 library(mixOmics)
 ICAX <- ipca(X, 3)
 
