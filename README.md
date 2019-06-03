@@ -20,6 +20,8 @@ increased the explained variance (10%) and allowed the identification of signifi
 explained in the model. The potential application of the ICA-MFA algorithm constitutes an important aspect of integrating multivariate
 multiscale data, specifically in the field of Neurogenetics.
 
+![Algorithm Diagram](DiagramMRfinal.gif)
+
 
 **Reference:** Vilor-Tejedor N, Ikram MA, Roshchupkin GV, Cáceres A, Alemany S, Vernooij MW, Niessen WJ, van Duijn CM, Sunyer J, Adams HH, González JR. *Independent Multiple Factor Association Analysis for Multiblock Data in Imaging Genetics*. **Neuroinformatics. 2019 Mar 22.** doi: 10.1007/s12021-019-09416-z. [Epub ahead of print] PubMed PMID: 30903541.
 
